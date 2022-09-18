@@ -1,6 +1,6 @@
 # Diabetes-Prediction-using-ML
-The objective is to predict based on diagnostic measurements whether a patient has diabetes.
-Overview
+
+# Overview
 In this project, the objective is to predict whether the person has Diabetes or not based on various features suach as
 
 Pregnancies
